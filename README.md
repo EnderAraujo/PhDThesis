@@ -13,5 +13,5 @@ ender.araujog@gmail.com
 Tutor: Dr. Luís Rincón (USFQ) lrincon@usfq.edu.ec
 
 Este repositorio contiene el contenido del proyecto de tesis doctoral (en desarrollo).
-Se Adjuntan los archivos fuente de LaTeX, los experimentos computacionales (Jupyter Notenook) y los artículos y libros citados
+Se Adjuntan los archivos fuente de LaTeX, los experimentos computacionales (Jupyter Notebook) y los artículos y libros citados
 en este trabajo.
