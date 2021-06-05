@@ -1,0 +1,31 @@
+\documentclass[spanish, letterpaper, 11pt]{article}
+
+  \include{11-content/packages}
+  \include{11-content/preamble}
+
+	\begin{document}
+
+	  \include{11-content/portada}
+	  \include{11-content/abreviaturas}
+	  \include{11-content/listFigures}
+	  \include{11-content/listTables}
+	  \include{11-content/resumen}
+
+	  \tableofcontents
+
+	  \include{11-content/introduccion}
+	  \include{11-content/objetivos}
+	  \include{11-content/marcoTeorico}
+	  \include{11-content/marcoMetodologico}
+	  \include{11-content/resultadosExperimentales}
+
+	  \bibliography{refTesisEA}{}
+    \appendix
+
+	  \include{11-content/appendA}
+	  \include{11-content/appendB}
+
+	  \addcontentsline{toc}{section}{Índice alfabético}
+	  \printindex
+
+\end{document}
